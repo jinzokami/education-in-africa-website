@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+header{
+font-size: 400%;
+text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
+
+.fact-image {
+height: 250px;
+width: 55%;
+}
+
+.fact{
+    text-align: center;
+}
